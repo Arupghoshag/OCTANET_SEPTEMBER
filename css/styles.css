@@ -1,0 +1,56 @@
+#title {
+    background-color: #D5FFD0;
+}
+
+#logo {
+    text-align: center;
+}
+
+#card-1 {
+    background-color: #D5FFD0;
+    border-color: #D5FFD0;
+}
+
+.navbar-brand {
+    color: #016A70;
+}
+
+@media (max-width: 1020px) {
+
+    #title{
+        text-align: center;
+    }
+
+    .logo {
+        position: static;
+        transform: rotate(0);
+    }
+
+}
+
+.row {
+    margin: 10px;
+}
+
+.products {
+    padding: 3% 3%;
+}
+
+#products {
+    text-align: center;
+    background-color: #D5FFD0;
+}
+
+#footer {
+    padding: 5% 5%;
+    text-align: center;
+    background-color: #D5FFD0;
+}
+
+.fa-brands.fa-instagram {
+    color: red;
+}
+
+.fa-brands {
+    padding: 5px;
+}
